@@ -1,8 +1,6 @@
 body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      font-size: 1.2rem;
-      
-      
+      font-size: 1.2rem;    
 }
 
 
@@ -14,4 +12,7 @@ main, footer {
 }
 footer {
     margin-top: 5rem;
+}
+ul {
+    list-style: lower-latin;
 }
